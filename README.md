@@ -1,1 +1,1 @@
-# Comprehensive-guide-to-data-science-2024
+# Comprehensive-Guide-to-Data-Science-2024
